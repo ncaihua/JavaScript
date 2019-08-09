@@ -1,1 +1,15 @@
 # JavaScript
+###### 这个仓库主要是用来记录学习关于JavaScript的所有内容
+- JavaScript基础
+- JavaScript高级
+  + 数组的高级函数
+  + 面向对象
+  + 作用域
+  + 原型链和继承
+- JavaScript操作Html
+  + 原生JavaScript操作DOM
+- JavaScript框架
+  + jQuery
+  + Vue
+  + easyUi
+- 其他关于JavaScript的内容
